@@ -25,24 +25,63 @@ Part 1
 - Install Sever 2022(Server) and Windows 10(client)
 -Configure Network Settings (Make sure client server are on the ame vnet, make server IP static, and configure The Client DNS to match the Server IP, Test connection)
 
+
+
+
 - Install Active Directory Domain Services
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![ad installed](https://github.com/AaronWhiteTech/configure-ad/assets/155200818/792b8791-f1c7-455d-991f-c64c35429ace)
+
+
+
+
+
+
 Part 2
 - Configure administrator account
-- <img src="![user admin config](https://github.com/AaronWhiteTech/configure-ad/assets/155200818/e9d44fcf-dc04-4009-a94d-bbd14d3262bd)
-" alt="Disk Sanitization Steps"/>
-- Log into client as created admin
-- <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+[user admin config](https://github.com/AaronWhiteTech/configure-ad/assets/155200818/e9d44fcf-dc04-4009-a94d-bbd14d3262bd)
+
+
+
+- Log into client as created admin "Jane Doe"
+
+
+
+
+![alternate account logged in on client](https://github.com/AaronWhiteTech/configure-ad/assets/155200818/bdd2d59a-78b3-45fe-9c30-86d48ed465e8)
+
+
+
+
 - Connect client to Domain
-- <img src="![Screenshot 2024-06-28 193624](https://github.com/AaronWhiteTech/configure-ad/assets/155200818/c9ac231a-2118-43e2-951e-491e3f94f6a6)
-" alt="Disk Sanitization Steps"/>
+
+![connect client to domain](https://github.com/AaronWhiteTech/configure-ad/assets/155200818/0c46cc4f-deaa-4b9a-9503-6f05232bec5f)
+
+
+
+- (https://github.com/AaronWhiteTech/configure-ad/assets/155200818/c9ac231a-2118-43e2-951e-491e3f94f6a6)
+
+
+
+
 -  Go to server and open powershell ISE as admin
 -   to create multiple users
--   <img src="![Screenshot 2024-06-28 220203](https://github.com/AaronWhiteTech/configure-ad/assets/155200818/01522db1-a3ba-49f4-99f7-effcac95c444)
-" width="80%" alt="Disk Sanitization Steps"/>
-<img src="![users created in ad](https://github.com/AaronWhiteTech/configure-ad/assets/155200818/17e96434-bd7d-42a4-ae39-d2e99e039373)
-" alt="Disk Sanitization Steps"/>
-- Log into client as created user
-<img src="![Log in with created user ](https://github.com/AaronWhiteTech/configure-ad/assets/155200818/5d64b378-03ec-4e8d-8f9e-5e0debeec44f)
-" alt="Disk Sanitization Steps"/>
+
+
+
+![creating users i AD 1000](https://github.com/AaronWhiteTech/configure-ad/assets/155200818/e0275595-1580-43a7-a3b3-e835c730754f)
+
+
+
+
+
+
+   Log into client as created user
+
+
+
+
+   ![Log in with created user ](https://github.com/AaronWhiteTech/configure-ad/assets/155200818/1ea0e335-a9bb-4195-a47a-1cdfbfc50fd0)
+
+
+
 
