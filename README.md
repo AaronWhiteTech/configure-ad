@@ -28,12 +28,12 @@ Part 1
 
 
 
-- Install Active Directory Domain Services
+
 ![ad installed](https://github.com/AaronWhiteTech/configure-ad/assets/155200818/792b8791-f1c7-455d-991f-c64c35429ace)
 
 
 
-
+- Install Active Directory Domain Services
 
 
 Part 2
