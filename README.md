@@ -78,5 +78,5 @@ Part 2
    ![Log in with created user ](https://github.com/AaronWhiteTech/configure-ad/assets/155200818/1ea0e335-a9bb-4195-a47a-1cdfbfc50fd0)
 
 
-   Log into client as created user "tvp.bul" to prove mas user creation successful log into client machine with user name "aaron.com/tvp.bul"
+(Step 7)Log into client as created user "tvp.bul" to prove mas user creation successful log into client machine with user name "aaron.com/tvp.bul"
 
