@@ -41,7 +41,7 @@ Part 2
 
 [user admin config](https://github.com/AaronWhiteTech/configure-ad/assets/155200818/e9d44fcf-dc04-4009-a94d-bbd14d3262bd)
 
--- Configure administrator account "Jane Doe" go to active directory users and computers, ccreate new user, go to properties-security, then join the user to domain administrators
+- Configure administrator account "Jane Doe" go to active directory users and computers, ccreate new user, go to properties-security, then join the user to domain administrators
 
 
 
@@ -51,24 +51,26 @@ Part 2
 - Log into client as created admin "Jane Doe" Log into the client machine with the user "aaron.com/janedoe"
 
 
-- Connect client to Domain, go to pc-properties-rename this computer advanced, change domain, type in "aaron.com, a welcome to aaron.com pop up appears
+
 
 ![connect client to domain](https://github.com/AaronWhiteTech/configure-ad/assets/155200818/0c46cc4f-deaa-4b9a-9503-6f05232bec5f)
 
+- Connect client to Domain, go to pc-properties-rename this computer advanced, change domain, type in "aaron.com, a welcome to aaron.com pop up appears
 
 
 
--  Go to server and open powershell ISE as admin to create multiple users
+
 
 
 ![creating users i AD 1000](https://github.com/AaronWhiteTech/configure-ad/assets/155200818/e0275595-1580-43a7-a3b3-e835c730754f)
 
+-  Go to server and open powershell ISE as admin to create multiple users
 
 
 
 
 
-   Log into client as created user "tvp.bul" to prove mas user creation successful log into client machine with user name "aaron.com/tvp.bul
+
 
 
 
@@ -76,5 +78,5 @@ Part 2
    ![Log in with created user ](https://github.com/AaronWhiteTech/configure-ad/assets/155200818/1ea0e335-a9bb-4195-a47a-1cdfbfc50fd0)
 
 
-
+   Log into client as created user "tvp.bul" to prove mas user creation successful log into client machine with user name "aaron.com/tvp.bul"
 
