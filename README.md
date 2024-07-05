@@ -33,7 +33,8 @@ Part 1
 
 
 
-- Install Active Directory Domain Services 
+- Install Active Directory Domain Services go to tools-roles and features, add roles and features, choose active directory domain services, new forrest, create domain and password, hit next until finish
+  Click the caution sign and install, after the computer restarts ad will show in the server window
 
 
 Part 2
@@ -50,7 +51,7 @@ Part 2
 - Log into client as created admin "Jane Doe" Log into the client machine with the user "aaron.com/janedoe"
 
 
-- Connect client to Domain, go to pc-properties-rename this computer advanced, change domain type in aaron.com, a welcoe to aaron.com pop up appears
+- Connect client to Domain, go to pc-properties-rename this computer advanced, change domain, type in "aaron.com, a welcome to aaron.com pop up appears
 
 ![connect client to domain](https://github.com/AaronWhiteTech/configure-ad/assets/155200818/0c46cc4f-deaa-4b9a-9503-6f05232bec5f)
 
@@ -67,7 +68,7 @@ Part 2
 
 
 
-   Log into client as created user
+   Log into client as created user "tvp.bul" to prove mas user creation successful log into client machine with user name "aaron.com/tvp.bul
 
 
 
