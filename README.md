@@ -33,39 +33,31 @@ Part 1
 
 
 
-- Install Active Directory Domain Services
+- Install Active Directory Domain Services 
 
 
 Part 2
-- Configure administrator account
+
 [user admin config](https://github.com/AaronWhiteTech/configure-ad/assets/155200818/e9d44fcf-dc04-4009-a94d-bbd14d3262bd)
 
-
-
-- Log into client as created admin "Jane Doe"
+-- Configure administrator account "Jane Doe" go to active directory users and computers, ccreate new user, go to properties-security, then join the user to domain administrators
 
 
 
 
 ![alternate account logged in on client](https://github.com/AaronWhiteTech/configure-ad/assets/155200818/bdd2d59a-78b3-45fe-9c30-86d48ed465e8)
 
+- Log into client as created admin "Jane Doe" Log into the client machine with the user "aaron.com/janedoe"
 
 
-
-- Connect client to Domain
+- Connect client to Domain, go to pc-properties-rename this computer advanced, change domain type in aaron.com, a welcoe to aaron.com pop up appears
 
 ![connect client to domain](https://github.com/AaronWhiteTech/configure-ad/assets/155200818/0c46cc4f-deaa-4b9a-9503-6f05232bec5f)
 
 
 
-- (https://github.com/AaronWhiteTech/configure-ad/assets/155200818/c9ac231a-2118-43e2-951e-491e3f94f6a6)
 
-
-
-
--  Go to server and open powershell ISE as admin
--   to create multiple users
-
+-  Go to server and open powershell ISE as admin to create multiple users
 
 
 ![creating users i AD 1000](https://github.com/AaronWhiteTech/configure-ad/assets/155200818/e0275595-1580-43a7-a3b3-e835c730754f)
