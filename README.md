@@ -3,8 +3,13 @@
 <p align="center">
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
-https://youtu.be/XbnsOEeY2PA
-https://youtu.be/Xr1UQ-xrPlE
+
+
+Configuration- https://youtu.be/XbnsOEeY2PA
+
+
+
+User Creation and Network File Share- https://youtu.be/Xr1UQ-xrPlE
 
 <h1>On-premises Active Directory Deployed On Vmware
 
