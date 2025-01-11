@@ -11,6 +11,19 @@ Configuration- https://youtu.be/XbnsOEeY2PA
 
 User Creation and Network File Share- https://youtu.be/Xr1UQ-xrPlE
 
+
+Objective: Conduct Overview of Active Directroy administrative responsibilites simulating live environemnt
+
+
+Preequisites : 
+ Download Iso File from Microsoft
+ Configure VMwae
+
+ Configuration Steps
+ Create Accounts For Windows 10 and Server 2022 
+
+ Configure IPv4 settings on Both Virtual Machines
+
 <h1>On-premises Active Directory Deployed On Vmware
 
 
