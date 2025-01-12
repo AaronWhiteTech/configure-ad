@@ -58,44 +58,6 @@ Part 1
 
 Part 2
 
-[user admin config](https://github.com/AaronWhiteTech/configure-ad/assets/155200818/e9d44fcf-dc04-4009-a94d-bbd14d3262bd)
-
--(Step 3) Configure administrator account "Jane Doe" go to active directory users and computers, ccreate new user, go to properties-security, then join the user to domain administrators
 
 
-
-
-![alternate account logged in on client](https://github.com/AaronWhiteTech/configure-ad/assets/155200818/bdd2d59a-78b3-45fe-9c30-86d48ed465e8)
-
-- (Step 4)Log into client as created admin "Jane Doe" Log into the client machine with the user "aaron.com/janedoe"
-
-
-
-
-![connect client to domain](https://github.com/AaronWhiteTech/configure-ad/assets/155200818/0c46cc4f-deaa-4b9a-9503-6f05232bec5f)
-
--(Step 5) Connect client to Domain, go to pc-properties-rename this computer advanced, change domain, type in "aaron.com, a welcome to aaron.com pop up appears
-
-
-
-
-
-
-![creating users i AD 1000](https://github.com/AaronWhiteTech/configure-ad/assets/155200818/e0275595-1580-43a7-a3b3-e835c730754f)
-
--(Step 6)  Go to server and open powershell ISE as admin to create multiple users
-
-
-
-
-
-
-
-
-
-
-   ![Log in with created user ](https://github.com/AaronWhiteTech/configure-ad/assets/155200818/1ea0e335-a9bb-4195-a47a-1cdfbfc50fd0)
-
-
-(Step 7)Log into client as created user "tvp.bul" to prove mas user creation successful log into client machine with user name "aaron.com/tvp.bul"
-
+![ad user creation screenshot 1](https://github.com/user-attachments/assets/90464548-e230-4bb3-812b-45180b9ca0db)
